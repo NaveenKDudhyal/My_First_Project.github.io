@@ -1,0 +1,11 @@
+.para{
+    color: brown;
+}
+.overview{
+    border: 3px solid rgb(234, 132, 132);
+    margin-right: 40%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}

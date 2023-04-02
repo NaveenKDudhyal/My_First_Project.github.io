@@ -1,0 +1,38 @@
+*{
+    font-family: cursive
+}
+.navbar{
+    background-color: rgb(36, 97, 97);
+    padding: 12px;
+    top: 0%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.navbar a{
+    margin-left: 20px;
+}
+body{
+    margin: 0%;
+}
+.float-right-for-login-registor-in-navbar{
+    float: right;
+}
+.btn{
+    padding: 5px 10px 5px 10px;
+}
+.btn-bc-fc-login{
+    background-color: rgb(95, 95, 134);
+    color: beige;
+    border-radius: 5px;
+    padding: 3px 10px 5px 10px;
+    border: 1px solid black;
+}
+.btn-bc-fc-registor{
+    background-color: rgb(59, 59, 100);
+    color: beige;
+    border-radius: 5px;
+    padding: 3px 10px 5px 10px;
+    border: 1px solid black;
+}

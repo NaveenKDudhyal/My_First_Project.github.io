@@ -1,0 +1,23 @@
+
+.footer-text-colour{
+    color: rgb(6, 6, 25);
+}
+.footer-center{
+    text-align: center;
+}
+.footer-bg-colour{
+    border: 1px solid rgb(183, 145, 88);
+    padding: 3px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+.footer{
+    background-color: aquamarine;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    border: 1px solid rgb(9, 99, 69);
+    margin-top: 1px;
+}

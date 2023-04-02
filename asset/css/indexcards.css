@@ -1,0 +1,37 @@
+.row {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.col-2 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 33.3%;
+}
+
+.col-4 {
+    width: 25%;
+}
+
+.margintop-10px {
+    margin-top: 10px;
+}
+.borders{
+    border: 3px solid rgba(0, 0, 0, 0.428);
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.text-al{
+    text-align: center;
+    color: rgb(85, 49, 49);
+}
+/* 
+img{
+    width: 100%;
+} */
+
+
